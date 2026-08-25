@@ -550,3 +550,4 @@ uv run playwright install chromium
 25. **Arrows land correctly**: Arrows connect to intended elements without crossing others
 26. **Readable at export size**: Text is legible in the rendered PNG
 27. **Balanced composition**: No large empty voids or overcrowded regions
+28. **Balanced Size of Elements**: An element should be large enough so that the text inside that element is visible without resizing or expanding it.
