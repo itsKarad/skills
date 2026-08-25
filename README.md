@@ -8,6 +8,7 @@ A portable collection of skills I use across LLM agents.
 - `grilling`: companion interview primitive used by `grill-me`.
 - `explain-diff`: creates a self-contained interactive HTML explanation of a code change, diff, branch, or PR.
 - `explain-diff-notion`: creates a rich Notion-page explanation of a code change, diff, branch, or PR.
+- `excalidraw`: creates and visually validates Excalidraw diagram JSON files, with renderer and schema references bundled in the skill folder.
 
 The two skills are kept together because `grill-me` delegates its behavior to `grilling`.
 
