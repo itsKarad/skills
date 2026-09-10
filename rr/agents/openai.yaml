@@ -1,0 +1,4 @@
+interface:
+  display_name: "RR, Remove Redundancies"
+  short_description: "Find and remove provably redundant code"
+  default_prompt: "Use $rr to scan this codebase for provably redundant code, remove safe candidates, and run the relevant checks."
