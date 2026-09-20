@@ -1,0 +1,4 @@
+interface:
+  display_name: "Git checkpoint"
+  short_description: "Commit milestone checkpoints during repository tasks"
+  default_prompt: "Use $git-checkpoint to commit meaningful milestones during this task when working inside a Git repository."
