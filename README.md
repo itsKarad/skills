@@ -56,4 +56,5 @@ A portable collection of skills for LLM agents.
 - `excalidraw`: Create Excalidraw diagrams that explain systems and workflows.
 - `explain-diff`: Create a self-contained HTML explanation of a code change.
 - `explain-diff-notion`: Create a rich Notion explanation of a code change.
+- `pr-lunchbox`: Write a paste-ready Markdown PR description with a file-by-file summary and verified testing.
 - `research-paper-reading`: Teach finance, CS, math, systems, ML, and AI papers section by section with worked math, code, and interactive HTML guides.
