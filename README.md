@@ -6,6 +6,7 @@ A portable collection of skills for LLM agents.
 
 ### Planning, design, and review
 
+- `align`: Restate the user's goal and the problem they are trying to solve.
 - `architect`: Sketch types, signatures, and module structure before implementation.
 - `arena`: Compare parallel candidates, choose the strongest base, and combine useful parts.
 - `blast-radius`: Find what a change could break beyond the diff and verify the important risk.
