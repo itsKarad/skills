@@ -22,6 +22,7 @@ A portable collection of skills for LLM agents.
 - `poteto-mode`: Work with concise prose, deliberate delegation, simple code, and verification.
 - `reflect`: Review the current work and turn concrete lessons into skill edits.
 - `rr`: Find and remove provably unused or redundant code without broad rewrites.
+- `safe-to-commit`: Check proposed Git changes for secrets and machine-specific files or paths before staging.
 - `show-me-your-work`: Keep a TSV decision log for long-running or unattended work.
 - `skill-goblin`: Find skill ideas in the past week's chats and working preferences.
 - `swarm`: Run parallel workers for broad exploration, comparison, or coverage.
