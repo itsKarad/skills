@@ -21,6 +21,7 @@ A portable collection of skills for LLM agents.
 - `automate-me`: Turn working preferences into a reusable personal mode skill.
 - `cpp`: Write modern C++17+ with compact function boundaries, route handlers, `auto`, `const`, and named file-local strings.
 - `cpp-coding-standards`: ECC's C++17/20/23 standards based on the C++ Core Guidelines ([source](https://github.com/affaan-m/ECC/tree/main/skills/cpp-coding-standards)).
+- `remember-failures`: Save the verified recovery path after repeated mistakes so future agents avoid the same loop.
 - `poteto-mode`: Work with concise prose, deliberate delegation, simple code, and verification.
 - `reflect`: Review the current work and turn concrete lessons into skill edits.
 - `rr`: Find and remove provably unused or redundant code without broad rewrites.
