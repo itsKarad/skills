@@ -25,6 +25,7 @@ A portable collection of skills for LLM agents.
 - `safe-to-commit`: Check proposed Git changes for secrets and machine-specific files or paths before staging.
 - `show-me-your-work`: Keep a TSV decision log for long-running or unattended work.
 - `skill-goblin`: Find skill ideas in the past week's chats and working preferences.
+- `sql`: Write and run SQL with schema and cost checks before execution.
 - `swarm`: Run parallel workers for broad exploration, comparison, or coverage.
 - `tdd`: Add a focused failing-before, passing-after regression test when the test path is practical.
 - `unslop`: Remove AI writing patterns and make text clearer and more human.
