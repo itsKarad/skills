@@ -1,0 +1,4 @@
+interface:
+  display_name: "C++"
+  short_description: "Modern C++ with your compact coding style"
+  default_prompt: "Use $cpp to write or review this C++ code with my preferred function and constant conventions."
