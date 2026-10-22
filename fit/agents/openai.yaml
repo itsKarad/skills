@@ -1,0 +1,3 @@
+interface:
+  display_name: "Fit"
+  short_description: "Score job fit and tailor resume keywords"
